@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+  <head>
+     <title> 2019 holiday</title>
+    
+     <link href=style.css type="text/css" rel="stylesheet">
+    
+  </head>
+  <body>
+      
+     <h1 class="title"> My USA West Coast Holiday 2019 </h1>
+     <p> This summer I had the holiday of a life time with my family.</p>
+     <p>We visited the west coast of America and took in as many sights as possible in 2 weeks. </>
+     <p>We visited 4 states : </p>
+     
+         <div class="main-banner">
+           <div class="list1">
+             <ol>
+               <li>Nevada</li>
+               <li>Arizona</li>
+               <li>Utah</li>
+               <li>California</li>
+             </ol>
+          </div>
+       </div>
+    
+     
+     <div>
+
+        <p> We also visited the Navajo Indian reservation which sits between Arizona and Utah </p>
+        <p> On our travels we visited the following National Parks </p>
+        <p> If you click on the links I can share my experience through photos with you </p>
+        <nav>
+          <div class="list2">
+            <ul>
+              <li><a href=Zion.html> Zion National Park  </a></li>
+              <li> <a href=”./bryce.html”> Bryce Canyon  </a></li>
+              <li> <a href=”./mv.html”> Monument Valley </a></li>
+              <li><a href=”./gc.html”> Grand Canyon </a></li>
+              <li><a href=”./yosemite.html”> Yosemite National Parks </a></li>
+            </ul>
+          </div>
+        </nav>
+        
+    
+        
+<!--
+    <a href="https://en.wikipedia.org/wiki/Brown_bear" target="_blank"><img src="https://s3.amazonaws.com/codecademy-content/courses/web-101/web101-image_brownbear.jpg" /> </a>
+
+ <ul>
+    <li><a href="#introduction">Introduction</a></li>
+    <li><a href="#habitat">Habitat</a></li>
+    <li><a href="#media">Media</a></li>
+  </ul>
+  <div id="introduction">
+    <h2>About Brown Bears</h2>
+</div>
+  <div id="habitat">
+    <h2>Where bears live</h2>
+</div>
+  <div id="Mediat">
+    <h2>What bears look like</h2>
+</div>
+-->
+  </body>
+
+</html>
